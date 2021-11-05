@@ -1,0 +1,34 @@
+.app-container{
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-bottom: 2rem;
+}
+
+.app-img{
+    background-image: url('F:\\IMP\\Isha\\Jay-React\\xhashtag\\xhashtag\\src\\App-bk.png');
+    width: 70px;
+    height: 70px;
+    background-position: 0 0;
+    background-size: cover;
+    max-width: 100%;
+    background-color: transparent;
+}
+.app-btn{
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: transparent;
+    -webkit-transition: .2s;
+    transition: .2s;
+    color: #fff;
+}
+.app-links{
+    text-decoration: none;
+    color: #fff;
+    padding:2rem !important;
+    align-items: center;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: top;
+    margin-top: 1rem;
+}

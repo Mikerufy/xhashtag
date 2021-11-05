@@ -1,0 +1,13 @@
+.p1{
+    background-image: url("F:\\IMP\\Isha\\Jay-React\\xhashtag\\xhashtag\\src\\p1-bk.svg") ;
+    background-repeat: no-repeat;
+    background-size: 100% !important;
+    background-color: transparent !important;
+    position: relative;
+    background-position: 50% 50% !important;
+    padding: 3px 3% 8%;
+}
+.p1-2{
+    margin:8rem !important;
+    color: #fff;
+}
